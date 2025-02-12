@@ -1,2 +1,2 @@
 # jpeg2d
-compressão de imagem
+implementação de compressão de imagens a técnica jpeg em python
